@@ -4,7 +4,7 @@ markdown
 A production-ready Medical Consultation Chatbot built using **OpenAI GPT-4o-mini**, **Gradio**, and **Python**.
 
 ## Demo link:
-https://dea14433e8ba1d7367.gradio.live
+[https://dea14433e8ba1d7367.gradio.live](https://huggingface.co/spaces/atharv-taral/Medical_AI_Assistant_Chatbot)
 
 ## 🚀 Features
 *   **Role-Based Interaction:** Acts as a professional Medical Consultant.
