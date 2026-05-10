@@ -12,7 +12,7 @@ A production-ready Medical Consultation Chatbot built using **OpenAI GPT-4o-mini
 ## 🛠️ Tech Stack
 *   **LLM:** OpenAI GPT-4o-mini
 *   **Interface:** Gradio 6.0+
-*   **Logic:** Python 3.x
+*   **Logic:** Python 3.10.0
 *   **Environment Management:** Dotenv & Venv
 
 ## ⚙️ Setup
